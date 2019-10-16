@@ -1,9 +1,7 @@
-# eigenvector-analysis
-
 ## Interpreting Word Embeddings with Eigenvector Analysis
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-<img align="right" src="images/HKUST.jpg" width="12%">
+<img align="right" src="HKUST.jpg" width="12%">
 
 This is the code for:
 **Interpreting Word Embeddings with Eigenvector Analysis**. **Jamin Shin**, Andrea Madotto, and Pascale Fung. ***NeurIPS 2018 Workshop on Interpretability and Robustness in Audio, Speech, and Language ([IRASL](https://irasl.gitlab.io/))***. 
